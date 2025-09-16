@@ -98,3 +98,10 @@ The script will automatically perform the following actions:
 1.	Open your SQL Client: Launch MySQL Workbench or preferred SQL Client.
 2.	Open the Script File: Open the SQL_Script.sql file in your client’s query editor.
 3.	Execute the Entire Script
+
+# Attachments
+- Server.js : It is the main script that Node.js executes to create, configure, and run your 
+entire web server. 
+- Collect_data.sh & cleanup_data.sh : The script for automation testing 
+- Cron_yyyy-mm-dd_hhmm.csv : automation testing output file 
+- SQL_Scripts.sql : The script for Data Processing
